@@ -1,4 +1,6 @@
-p{
+.box{
     height: 100px;
     width: 1000px;
+    background-color: cornflowerblue;
+     color: wheat;
 }
